@@ -1,0 +1,26 @@
+Count at the Cow barn
+Tom was standing outside a cow barn. A group of men were appointed to take care of the cattle. All Tom could see was ‘m’ heads and ‘n’ feet. Write a program to display the number of cows and the number of men found.
+
+Input consists of the heads as the first input and feet as the second input. If sum of number of cows and number of men is not equal to heads, then display “Invalid Input”.
+
+Sample Input 1
+
+3
+
+10
+
+Sample Output 1
+
+Number of Cows: 2
+
+Number of Men: 1
+
+Sample Input 2
+
+10
+
+44
+
+Sample Output 2
+
+Invalid Input
