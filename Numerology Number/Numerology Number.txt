@@ -1,0 +1,37 @@
+Numerology number
+Harry has developed a new interest in learning numerology, so starts paying attention to the numbers that comes up as he goes about his daily routines.
+
+Write a program to help him. The program should get the input from the user and display the individual digits separated by a single space. Assume input is less than 1000000000. For example, the number 7654 should be displayed as 7 6 5 4
+
+Also display the sum of the digits, the numerology number(Multi-digit numbers are added and reduced to a single digit), number total number of odd numbers and total number of even numbers.
+
+For example if the given number is 7654 then,
+
+The Numbers are :    7    6    5    4   
+
+Sum of digits : 22 (7+6+5+4)
+
+Numerology number : 4 ((7+6+5+4 =22 => 2+2) sum of digits is again added and reduced to a single digit).
+
+Number of odd numbers: 2
+
+Number of even numbers: 2
+
+Sample input:
+
+Enter the number
+
+86347
+
+Sample output:
+
+The Numbers are :    8    6    3    4    7
+
+Sum of digits : 28
+
+Numerology number: 1
+
+Number of odd numbers: 2
+
+Number of even numbers: 3
+
