@@ -1,0 +1,55 @@
+Sum and Product
+Lisa is hosting a party, during which she has planned for surprise gifts for her guests.
+
+The guests while entering the hall should pick two slips of paper upon which numbers are written.
+
+At the end of the party the guests should bring their slip of papers to Lisa. The Lucky ones are those who received numbers that satisfy the following condition.
+
+The sum of the two numbers is the reverse of the product of the two numbers.
+
+For example, If a guest has got X and Y as the two numbers, he will be a winner only if
+
+X+ Y= AB; Then X * Y =BA.
+
+Note : Both X and Y should be greater than 0. Otherwise print "Invalid Input"
+
+Write a program to help Lisa find out the lucky winner. The program should accept two numbers, check the logic and display the message as shown in the sample output.
+
+
+Sample input 1
+
+24
+
+3
+
+Sample output 1
+
+You are Lucky! Here Is your Gift.
+
+Sample input 2
+
+46
+
+2
+
+Sample output 2
+
+Better Luck Next Time
+
+Sample input 3
+
+0
+
+Sample output 3
+
+Invalid Input
+
+Sample input 4
+
+89
+
+0
+
+Sample output 4
+
+Invalid Input
