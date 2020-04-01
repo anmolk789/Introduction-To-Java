@@ -1,0 +1,49 @@
+Siblings Fund Raising
+Harry, James, Leo and Sara are siblings and their mother has asked them to sell cake boxes for a fund raising event. She told them that there is a surprise gift for the ones who sell the maximum number of boxes. There can be more than one maximum.
+
+Write a program to display the names of all the siblings who receive gifts by selling the maximum number of boxes. If all the four sold the same number then display, “All get the same gifts”.
+
+Sample input 1:
+
+Enter the number of boxes sold by Sara
+
+14
+
+Enter the number of boxes sold by Harry
+
+14
+
+Enter the number of boxes sold by Leo
+
+14
+
+Enter the number of boxes sold by James
+
+10
+
+Sample output 1:
+
+Sara, Harry and Leo receive the gifts.
+
+Sample input 2:
+
+Enter the number of boxes sold by Sara
+
+14
+
+Enter the number of boxes sold by Harry
+
+14
+
+Enter the number of boxes sold by Leo
+
+14
+
+Enter the number of boxes sold by James
+
+20
+
+Sample output 2:
+
+James receives the gifts.
+
