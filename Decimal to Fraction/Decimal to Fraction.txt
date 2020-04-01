@@ -1,0 +1,26 @@
+Decimal to Fraction
+Bobby is in her 2nd grade and has just started to learn about fractions. Whenever  she comes across a decimal number she is curious to know the equivalent fraction for that number. Help her to convert a decimal number into a fraction. Write a program that accepts a decimal number and prints the fraction equivalent in the simplified/reduced form.
+
+Sample input1
+
+12.5
+
+Sample output 1(Improper Fraction- where the numerator is greater than denominator)
+
+Fraction: 25/2
+
+Sample input 2
+
+0.625
+
+Sample output 2(Proper Fraction- where the numerator is lesser than denominator)
+
+Fraction: 5/8
+
+Sample input 3
+
+3
+
+Sample output 3
+
+Input a decimal number
