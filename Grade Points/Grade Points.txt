@@ -1,0 +1,50 @@
+Grade Points
+At Raffle’s Academy, students are given grade points to a maximum of 5 during their final exam. The grade points are mapped to Letter grades as follows.
+
+Letter Grade             Grade points
+
+O                                        5
+
+A                                       >= 4.5 and <5.0
+
+B                                        >= 4.0 and <4.5
+
+C                                         >=3.0 and <4.0
+
+D                                         >=2.0 and <3.0
+
+E                                         >=1.0 and <2.0
+
+F                                          >=0.0 and <1.0
+
+
+Write a program to that get’s an input between 0 and 5 and outputs the grade of the student.
+
+
+
+Sample input:
+
+Enter the grade point: 4.5
+
+Sample output:
+
+Grade: A
+
+
+Sample input:
+
+Enter the grade point: 3.4
+
+Sample output:
+
+Grade: C
+
+
+Sample input:
+
+1.2
+
+Sample output:
+
+Grade: E
+
