@@ -1,0 +1,16 @@
+Welcoming Freshmen
+
+The second year students at Stamford University are arranging a welcome party 
+to their first year students. 
+Each student while entering the party hall should say his/her name aloud. 
+After a few seconds, a welcome message will pop up on a screen along with their name. Write a program to get the name from the user and display it along with the welcome message.
+
+Sample Input
+
+Enter the name
+
+Brian rav
+
+Sample output
+
+Welcome Brian rav! Achieve with all your might.
