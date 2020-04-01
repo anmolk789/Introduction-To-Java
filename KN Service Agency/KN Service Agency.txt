@@ -1,0 +1,34 @@
+KN Agencies Sales Orders
+KN Agencies are dealers for a popular brand of Electric Kettle and Induction Stove. The selling price of the Electric Kettle and Induction Stove differs based on the number of units ordered and product chosen (either Electric Kettle or Induction Stove), as shown below .
+
+Electric Kettle                                                         Induction Stove
+
+No. of units          Price/Unit (Rs)                         No.of units        Price/unit(Rs)
+
+1 – 10                    950                                              1 –15                   1100
+11 -  20                  900                                              16 – 25               1000
+
+21 and above       850                                              26 and above    975 
+
+Design a program to get input from the user( If Electric Kettle enter ‘E’ and if Induction Stove enter ‘I’, and the number of units. ) and display the total amount that has to be paid.
+
+Hint : Assume that input provided will be either 'E' or 'I' alone.  No need to do any validation for the input provided.
+
+
+Sample input
+
+Enter 'E' for Electric Kettle and 'I' for Induction Stove( No other character will be accepted)
+
+E
+
+
+Enter the number of units ordered
+
+12
+
+
+
+Sample Output
+
+Total amount to be paid is Rs.10800
+
