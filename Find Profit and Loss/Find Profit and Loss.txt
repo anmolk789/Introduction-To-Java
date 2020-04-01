@@ -1,0 +1,29 @@
+Sam started a new business with an investment of Rs.1, 00,000. During the first year the he got a profit of x%, whereas in the second year he lost a certain amount(say Rs. Y). Help him to find out the profit/loss (in terms of initial investment) in percentage at the end of the second year.
+
+Sample input 1:
+
+Enter the profit percentage
+
+20
+
+Enter the amount lost in Rs.
+
+50000
+
+Sample output 1:
+
+After two years he gets a loss of 30%.
+
+Sample input 2:
+
+Enter the profit percentage
+
+20
+
+Enter the amount lost in Rs.
+
+20000
+
+Sample output 2:
+
+After two years he gets no loss or no gain.
